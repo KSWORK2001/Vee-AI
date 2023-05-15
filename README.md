@@ -4,4 +4,4 @@ Langiage: Python 3.8.15
 
 Environment: Pycharm
 
-Remarks: I am continuously adding a personal to the AI as well so it is more human friendly.
+Remarks: I am continuously adding a personal touch to the AI as well so it is more human friendly.
